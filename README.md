@@ -23,6 +23,7 @@ def circulate():
     n=int(input())
     result=list1[n:]+list1[:n]
     print("After circulating the values are:",result)
+    ```
 ## Output:
 ![Screenshot (57)](https://user-images.githubusercontent.com/119405626/229992528-c6287aa6-ce16-431d-9b8f-dc35d1a2f9e1.png)
 
